@@ -1,0 +1,46 @@
+Drink,Size,Instructions,Image
+Cafe Latte,Tall,"<b>Cafe Latte Tall</b><ul><li>3 pumps of syrup</li><li>1 shots of espresso</li><li>8 oz of milk</li><li>top with ice</li></ul>",./images/cafelatte.jpg
+Cafe Latte,Grande,"<b>Cafe Latte Grande</b><ul><li>4 pumps of syrup</li><li>2 shots of espresso</li><li>12 oz of milk</li><li>top with ice</li></ul>",./images/cafelatte.jpg
+Cafe Latte,Venti,"<b>Cafe Latte Venti</b><ul><li>6 pumps of syrup</li><li>2 shots of espresso</li><li>16 oz of milk</li><li>top with ice</li></ul>",./images/cafelatte.jpg
+Gingerbread Chai,Tall,"<b>Gingerbread Chai Tall</b><ul><li>3 pumps of chai</li><li>8 oz of milk</li><li>ice almost to the top</li><li>top with cold foam with 2 pumps of gingerbread syrup</li></ul>",./images/IcedGingerbreadOatmilkChai.jpg
+Gingerbread Chai,Grande,"<b>Gingerbread Chai Grande</b><ul><li>4 pumps of chai</li><li>12 oz of milk</li><li>ice almost to the top</li><li>top with cold foam with 2 pumps of gingerbread syrup</li></ul>",./images/IcedGingerbreadOatmilkChai.jpg
+Gingerbread Chai,Venti,"<b>Gingerbread Chai Venti</b><ul><li>6 pumps of chai</li><li>16 oz of milk</li><li>ice almost to the top</li><li>top with cold foam with 2 pumps of gingerbread syrup</li></ul>",./images/IcedGingerbreadOatmilkChai.jpg
+Cappuccino,Tall,"<b>Cappuccino Tall</b><ul><li>1 shot of espresso</li><li>8 oz of aerated steamed milk</li></ul>",./images/Cappuccino.jpg
+Cappuccino,Grande,"<b>Cappuccino Grande</b><ul><li>2 shots of espresso</li><li>12 oz of aerated steamed milk</li></ul>",./images/Cappuccino.jpg
+Cappuccino,Venti,"<b>Cappuccino Venti</b><ul><li>2 shots of espresso</li><li>16 oz of aerated steamed milk</li></ul>",./images/Cappuccino.jpg
+Mocha,Tall,"<b>Mocha Tall</b><ul><li>3 pumps mocha</li><li>1 shot of espresso</li><li>8 oz of milk</li><li>top with ice (if cold) and whipped cream</li></ul>",./images/Mocha.jpg
+Mocha,Grande,"<b>Mocha Grande</b><ul><li>4 pumps mocha</li><li>2 shots of espresso</li><li>12 oz of milk</li><li>top with ice (if cold) and whipped cream</li></ul>",./images/Mocha.jpg
+Mocha,Venti,"<b>Mocha Venti</b><ul><li>6 pumps mocha</li><li>2 shots of espresso</li><li>16 oz of milk</li><li>top with ice (if cold) and whipped cream</li></ul>",./images/Mocha.jpg
+Matcha Latte,Tall,"<b>Matcha Latte Tall</b><ul><li>2 scoops matcha</li><li>3 pumps syrup</li><li>8 oz milk</li><li>top with ice</li></ul>",./images/MatchaLatte.jpg
+Matcha Latte,Grande,"<b>Matcha Latte Grande</b><ul><li>3 scoops matcha</li><li>4 pumps syrup</li><li>12 oz milk</li><li>top with ice</li></ul>",./images/MatchaLatte.jpg
+Matcha Latte,Venti,"<b>Matcha Latte Venti</b><ul><li>4 scoops matcha</li><li>6 pumps syrup</li><li>16 oz milk</li><li>top with ice</li></ul>",./images/MatchaLatte.jpg
+Cafe Misto,Tall,"<b>Cafe Misto Tall</b><ul><li>Half cup brewed coffee</li><li>Half cup steamed milk</li></ul>",./images/CafeMisto.jpg
+Cafe Misto,Grande,"<b>Cafe Misto Grande</b><ul><li>Half cup brewed coffee</li><li>Half cup steamed milk</li></ul>",./images/CafeMisto.jpg
+Cafe Misto,Venti,"<b>Cafe Misto Venti</b><ul><li>Half cup brewed coffee</li><li>Half cup steamed milk</li></ul>",./images/CafeMisto.jpg
+Cafe Americano,Tall,"<b>Cafe Americano Tall</b><ul><li>1 shot of espresso</li><li>8 oz of hot or cold water</li><li>Top with ice if cold</li></ul>",./images/CafeAmericano.jpg
+Cafe Americano,Grande,"<b>Cafe Americano Grande</b><ul><li>2 shots of espresso</li><li>12 oz of hot or cold water</li><li>Top with ice if cold</li></ul>",./images/CafeAmericano.jpg
+Cafe Americano,Venti,"<b>Cafe Americano Venti</b><ul><li>3 shots of espresso</li><li>16 oz of hot or cold water</li><li>Top with ice if cold</li></ul>",./images/CafeAmericano.jpg
+Caramel Macchiato,Tall,"<b>Caramel Macchiato Tall</b><ul><li>3 pumps syrup</li><li>8 oz of milk</li><li>1 shot of espresso</li><li>Top with caramel drizzle</li></ul>",./images/CaramelMacchiato.jpg
+Caramel Macchiato,Grande,"<b>Caramel Macchiato Grande</b><ul><li>4 pumps syrup</li><li>12 oz of milk</li><li>2 shots of espresso</li><li>Top with caramel drizzle</li></ul>",./images/CaramelMacchiato.jpg
+Caramel Macchiato,Venti,"<b>Caramel Macchiato Venti</b><ul><li>5 pumps syrup</li><li>16 oz of milk</li><li>2 shots of espresso</li><li>Top with caramel drizzle</li></ul>",./images/CaramelMacchiato.jpg
+Brown Sugar Oatmilk Shaken Espresso,Tall,"<b>Brown Sugar Oatmilk Shaken Espresso Tall</b><ul><li>1 pump syrup in shaker</li><li>Fill with ice</li><li>Sprinkle cinnamon</li><li>Add 2 shots</li><li>Shake and pour</li><li>Top with oatmilk</li></ul>",./images/BrownSugarOatmilkShakenEspresso.jpg
+Brown Sugar Oatmilk Shaken Espresso,Grande,"<b>Brown Sugar Oatmilk Shaken Espresso Grande</b><ul><li>2 pumps syrup in shaker</li><li>Fill with ice</li><li>Sprinkle cinnamon</li><li>Add 3 shots</li><li>Shake and pour</li><li>Top with oatmilk</li></ul>",./images/BrownSugarOatmilkShakenEspresso.jpg
+Brown Sugar Oatmilk Shaken Espresso,Venti,"<b>Brown Sugar Oatmilk Shaken Espresso Venti</b><ul><li>3 pumps syrup in shaker</li><li>Fill with ice</li><li>Sprinkle cinnamon</li><li>Add 4 shots</li><li>Shake and pour</li><li>Top with oatmilk</li></ul>",./images/BrownSugarOatmilkShakenEspresso.jpg
+Strawberry Acai Refresher,Tall,"<b>Strawberry Acai Refresher Tall</b><ul><li>4 oz strawberry acai base in shaker</li><li>Add 6 oz water</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/StrawberryAcaiRefresher.jpg
+Strawberry Acai Refresher,Grande,"<b>Strawberry Acai Refresher Grande</b><ul><li>6 oz strawberry acai base in shaker</li><li>Add 8 oz water</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/StrawberryAcaiRefresher.jpg
+Strawberry Acai Refresher,Venti,"<b>Strawberry Acai Refresher Venti</b><ul><li>8 oz strawberry acai base in shaker</li><li>Add 10 oz water</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/StrawberryAcaiRefresher.jpg
+Mango Dragonfruit Refresher,Tall,"<b>Mango Dragonfruit Refresher Tall</b><ul><li>4 oz mango dragonfruit base in shaker</li><li>Add 6 oz water</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/MangoDragonfruitRefresher.jpg
+Mango Dragonfruit Refresher,Grande,"<b>Mango Dragonfruit Refresher Grande</b><ul><li>6 oz mango dragonfruit base in shaker</li><li>Add 8 oz water</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/MangoDragonfruitRefresher.jpg
+Mango Dragonfruit Refresher,Venti,"<b>Mango Dragonfruit Refresher Venti</b><ul><li>8 oz mango dragonfruit base in shaker</li><li>Add 10 oz water</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/MangoDragonfruitRefresher.jpg
+Pink Drink,Tall,"<b>Pink Drink Tall</b><ul><li>4 oz strawberry acai base in shaker</li><li>6 oz coconut milk</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/PinkDrink.jpg
+Pink Drink,Grande,"<b>Pink Drink Grande</b><ul><li>6 oz strawberry acai base in shaker</li><li>8 oz coconut milk</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/PinkDrink.jpg
+Pink Drink,Venti,"<b>Pink Drink Venti</b><ul><li>8 oz strawberry acai base in shaker</li><li>10 oz coconut milk</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/PinkDrink.jpg
+Dragon Drink,Tall,"<b>Dragon Drink Tall</b><ul><li>4 oz mango dragonfruit base in shaker</li><li>6 oz coconut milk</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/DragonDrink.jpg
+Dragon Drink,Grande,"<b>Dragon Drink Grande</b><ul><li>6 oz mango dragonfruit base in shaker</li><li>8 oz coconut milk</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/DragonDrink.jpg
+Dragon Drink,Venti,"<b>Dragon Drink Venti</b><ul><li>8 oz mango dragonfruit base in shaker</li><li>10 oz coconut milk</li><li>Top with ice</li><li>Shake and pour</li></ul>",./images/DragonDrink.jpg
+Cold Brew,Tall,"<b>Cold Brew Tall</b><ul><li>8 oz cold brew</li><li>Top with ice</li></ul>",./images/ColdBrew.jpg
+Cold Brew,Grande,"<b>Cold Brew Grande</b><ul><li>12 oz cold brew</li><li>Top with ice</li></ul>",./images/ColdBrew.jpg
+Cold Brew,Venti,"<b>Cold Brew Venti</b><ul><li>16 oz cold brew</li><li>Top with ice</li></ul>",./images/ColdBrew.jpg
+Nitro Cold Brew,Tall,"<b>Nitro Cold Brew Tall</b><ul><li>Fill cup with nitro cold brew</li></ul>",./images/NitroColdBrew.jpg
+Nitro Cold Brew,Grande,"<b>Nitro Cold Brew Grande</b><ul><li>Fill cup with nitro cold brew</li></ul>",./images/NitroColdBrew.jpg
+Nitro Cold Brew,Venti,"<b>Nitro Cold Brew Venti</b><ul><li>Fill cup with nitro cold brew</li></ul>",./images/NitroColdBrew.jpg
